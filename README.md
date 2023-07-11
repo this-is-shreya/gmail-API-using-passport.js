@@ -18,5 +18,3 @@
 
 All the APIs can be found here: https://developers.google.com/gmail/api/reference/rest
 
-## Video explanation:
-Link: https://clipchamp.com/watch/mwhWx0Js9On
