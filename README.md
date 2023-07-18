@@ -1,6 +1,6 @@
-<img src="https://img.shields.io/github/languages/code-size/this-is-shreya/map-my-journey" alt="image"> <img src="https://img.shields.io/github/repo-size/this-is-shreya/map-my-journey" alt="image"> <img src="https://img.shields.io/github/languages/count/this-is-shreya/map-my-journey" alt="image"> <img src="https://img.shields.io/github/languages/top/this-is-shreya/map-my-journey" alt="image">
-<img src="https://img.shields.io/github/watchers/this-is-shreya/map-my-journey?style=flat" alt="image">
-<img src="https://img.shields.io/github/forks/this-is-shreya/map-my-journey" alt="image"> <img src="https://img.shields.io/github/stars/this-is-shreya/map-my-journey" alt="image">
+<img src="https://img.shields.io/github/languages/code-size/this-is-shreya/gmail-API-using-passport.js" alt="image"> <img src="https://img.shields.io/github/repo-size/this-is-shreya/gmail-API-using-passport.js" alt="image"> <img src="https://img.shields.io/github/languages/count/this-is-shreya/gmail-API-using-passport.js" alt="image"> <img src="https://img.shields.io/github/languages/top/this-is-shreya/gmail-API-using-passport.js" alt="image">
+<img src="https://img.shields.io/github/watchers/this-is-shreya/gmail-API-using-passport.js?style=flat" alt="image">
+<img src="https://img.shields.io/github/forks/this-is-shreya/gmail-API-using-passport.js" alt="image"> <img src="https://img.shields.io/github/stars/this-is-shreya/gmail-API-using-passport.js" alt="image">
 
 Won't it be great, if there's a program that replies to all your emails on your behalf when you are busy with some other work or just simply want to enjoy your vacation?
 This is a Node.js repository that consists of that very program.
