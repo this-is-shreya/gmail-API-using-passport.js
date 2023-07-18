@@ -32,9 +32,10 @@ sender-sends-an-email --> app-replies-with-a-fixed-response --> sender-replies-b
 5. On the left, add the following permissions:
    https://www.googleapis.com/auth/gmail.send,https://www.googleapis.com/auth/gmail.readonly, https://mail.google.com/
     https://www.googleapis.com/auth/gmail.modify, https://www.googleapis.com/auth/gmail.compose
+   
    <img width="379" alt="image" src="https://github.com/this-is-shreya/gmail-API-using-passport.js/assets/62089952/148cfe76-390a-4e93-957d-17ec26075a17">
 
-6. Click on 'Authorize APIs' and exchange it for refresh and access token.
+7. Click on 'Authorize APIs' and exchange it for refresh and access token.
    
 **Steps 5 and 6 are specific to the email id you want to send emails from.**
 
